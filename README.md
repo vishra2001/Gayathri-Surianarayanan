@@ -1,6 +1,7 @@
 # Gayathri-Surianarayanan
-Hi there, I am Gayathri Surianarayanan.
+
 Strategic and innovation-driven Senior Technical Writer | AI Content Strategist | API Documentation Expert
+
 I am a Senior Technical Writer with over 9 years of experience crafting user-centric documentation for enterprise and consumer software. I specialize in bridging the gap between complex engineering and seamless user experiences through AI-powered workflows and robust Information Architecture.
 +2
 
