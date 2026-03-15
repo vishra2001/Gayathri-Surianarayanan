@@ -14,13 +14,13 @@ UX/UI: Active participation in product UI reviews using Figma to create integrat
 
 🛠️ **Toolbelt**
 
-Authoring: VS Code (AsciiDoc), MadCap Flare, Oxygen XML, Adobe RoboHelp, FrameMaker.
+* **Technical Authoring** - Visual Studio Code (AsciiDoc), Oxygen XML, MadCap Flare, Adobe FrameMaker, DITA.
+* **UX & Design** - UI/UX Writing, Figma Mockup Reviews, Information Architecture, Accessibility (WCAG) best practices.
+* **Developer Tools** - API Documentation (Swagger), Git/GitHub (Pull Request workflows), HTML/XML, Python basics.
+* **AI & Innovation** - Gen AI Prompt Engineering for content scalability, AI-powered workflow implementation.
+* **Project Management** - Agile methodologies, Jira, Confluence, Smartsheet.
+* **User Research & Analysis** - Qualtrics feedback analysis, Google Analytics, and partner support shadowing.
 
-Languages: HTML, XML, CSS, JavaScript, Python.
-
-Version Control: GitHub, Tortoise Git, Perforce.
-
-CMS & Management: Adobe Experience Manager (AEM), Jira, Confluence, SharePoint.
 
 📈 **Featured Projects and Impact**
 
