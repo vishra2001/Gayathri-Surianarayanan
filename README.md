@@ -1,4 +1,4 @@
-# Gayathri-Surianarayanan
+# Gayathri Surianarayanan
 
 Strategic and innovation-driven Senior Technical Writer | AI Content Strategist | API Documentation Expert
 
