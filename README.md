@@ -15,8 +15,11 @@ UX/UI: Active participation in product UI reviews using Figma to create integrat
 🛠️ **Toolbelt**
 
 Authoring: VS Code (AsciiDoc), MadCap Flare, Oxygen XML, Adobe RoboHelp, FrameMaker.
+
 Languages: HTML, XML, CSS, JavaScript, Python.
+
 Version Control: GitHub, Tortoise Git, Perforce.
+
 CMS & Management: Adobe Experience Manager (AEM), Jira, Confluence, SharePoint.
 
 📈 **Featured Projects and Impact**
